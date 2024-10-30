@@ -30,6 +30,7 @@ function toggleNavbar() {
 
 addEventOnElements(navbarToggler, 'click', toggleNavbar);
 
+// Selects the header element to apply scroll-based visibility effects
 const header = document.querySelector('.header');
 
 let lastScrollPos = 0;
