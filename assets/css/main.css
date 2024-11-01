@@ -644,6 +644,7 @@ header .container {
     color: var(--gold-crayola);
     margin: 0 auto;
     max-width: max-content;
+    padding-block-end: 10px;
 }
 
 .text-center {

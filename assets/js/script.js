@@ -6,7 +6,7 @@ window.addEventListener('load', () => {
     setTimeout(() => {
         preloader.classList.add('loaded');
         document.body.classList.add('loaded');
-    }, 1300);
+    }, 1500);
 });
 
 // Function to add event listeners to multiple elements
